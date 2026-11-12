@@ -1,8 +1,8 @@
-# Datheon_Machine_Learning_-_Data_Science_Internship
+
 
 # 🚀 Datheon Machine Learning & Data Science Internship
 
-## 📌 Internship Project Portfolio
+
 
 Welcome to my **Machine Learning & Data Science Internship Project Repository** at Datheon.
 
